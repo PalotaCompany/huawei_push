@@ -5,6 +5,10 @@
   <a href="https://pub.dev/packages/huawei_push"><img src="https://img.shields.io/pub/v/huawei_push?style=for-the-badge" alt="pub.dev version"></a>
 </p>
 
+----
+
+This is a fork to remove v1 embeddings, and make it work with Flutter v3.29.0
+
 ---
 
 Huawei Push Kit is a messaging service provided by Huawei. It establishes a messaging channel from the cloud to devices. By integrating Push Kit, you can send messages to your apps on users' devices in real time. This helps you maintain closer ties with users and increases user awareness and engagement with your apps.
